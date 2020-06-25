@@ -62,6 +62,7 @@ public class ResourceCentre {
 				} else if (itemType == 2) {
 
 					// Loan Chromebook
+					// Loan Chromebook
 					ResourceCentre.loanChromebook(chromebookList);
 
 				} else {
